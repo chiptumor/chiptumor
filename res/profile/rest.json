@@ -3,80 +3,80 @@
         "icon": {
             "chip": {
                 "tumor": [
-                    { "path": "generic/icon/chip/tumor.png" }
+                    { "path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/chip/tumor.png" }
                 ],
                 "fucker": [
-                    { "path": "generic/icon/chip/fucker.png" }
+                    { "path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/chip/fucker.png" }
                 ]
             },
             "zoologist": [
         		{
-        			"path": "generic/icon/zoologist/bluesky-welwraith-unknown0.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/bluesky-welwraith-unknown0.png",
         			"artist": "Bluesky/welwraith",
         			"source": "https://welwraith.bsky.app/"
         		},
         		{
-        			"path": "generic/icon/zoologist/bluesky-welwraith-unknown1.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/bluesky-welwraith-unknown1.png",
         			"artist": "Bluesky/welwraith",
         			"source": "https://welwraith.bsky.app/"
         		},
         		{
-        			"path": "generic/icon/zoologist/instagram-kissyboos-DFtk93kPCxr.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/instagram-kissyboos-DFtk93kPCxr.png",
         			"artist": "Instagram/kissyboos",
         			"source": "https://instagram.com/p/DFtk93kPCxr/"
         		},
         		{
-        			"path": "generic/icon/zoologist/instagram-kissyboos-DHeRAhZyzT1.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/instagram-kissyboos-DHeRAhZyzT1.png",
         			"artist": "Instagram/kissyboos",
         			"source": "https://instagram.com/p/DHeRAhZyzT1/"
         		},
         		{
-        			"path": "generic/icon/zoologist/instagram-kissyboos-DHzaOvYPiKw.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/instagram-kissyboos-DHzaOvYPiKw.png",
         			"artist": "Instagram/kissyboos",
         			"source": "https://instagram.com/p/DHzaOvYPiKw/"
         		},
         		{
-        			"path": "generic/icon/zoologist/tumblr-vivisepulturing-770630658167078912.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/tumblr-vivisepulturing-770630658167078912.png",
         			"artist": "Tumblr/vivisepulturing",
         			"source": "https://www.tumblr.com/vivisepulturing/770630658167078912/"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-Boss_Lee_S2-1801284351658762471.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-Boss_Lee_S2-1801284351658762471.png",
         			"artist": "Twitter/Boss_Lee_S2",
         			"source": "https://twitter.com/boss_lee_s2/status/1801284351658762471"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-cotardstovi-1828854303827865749.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-cotardstovi-1828854303827865749.png",
         			"artist": "Twitter/cotardstovi",
         			"source": "https://twitter.com/cotardstovi/status/1828854303827865749"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-cotardstovi-1948913026763227441.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-cotardstovi-1948913026763227441.png",
         			"artist": "Twitter/covardstovi",
         			"source": "https://twitter.com/cotardstovi/status/1948913026763227441"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-mimichiwah-1892451424648200236.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-mimichiwah-1892451424648200236.png",
         			"artist": "Twitter/mimichiwah",
         			"source": "https://twitter.com/mimichiwah/status/1892451424648200236"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-polysin__-1825203460460962031.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-polysin__-1825203460460962031.png",
         			"artist": "Twitter/polysin__",
         			"source": "https://twitter.com/polysin__/status/1825203460460962031"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-Pripunt-1782197743487988147.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-Pripunt-1782197743487988147.png",
         			"artist": "Twitter/Pripunt",
         			"source": "https://twitter.com/Pripunt/status/1782197743487988147"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-rekkadraws_-unknown0.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-rekkadraws_-unknown0.png",
         			"artist": "Twitter/rekkadraws_",
         			"source": "https://twitter.com/rekkadraws_"
         		},
         		{
-        			"path": "generic/icon/zoologist/twitter-SoniverseU-1963339801823699289.png",
+        			"path": "https://chiptumor.github.io/chiptumor/res/profile/generic/icon/zoologist/twitter-SoniverseU-1963339801823699289.png",
         			"artist": "Twitter/SoniverseU",
         			"source": "https://twitter.com/SoniverseU/status/1963339801823699289"
         		}
@@ -88,7 +88,7 @@
             "icon": {
                 "zoologist": [
                     {
-                        "path": "festive/halloween/incon/zoologist/unknown0.png"
+                        "path": "https://chiptumor.github.io/chiptumor/res/profile/festive/halloween/incon/zoologist/unknown0.png"
                     }
                 ]
             }
