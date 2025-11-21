@@ -15,9 +15,9 @@ Each project depends on the project its arrow points to.
 ```mermaid
 flowchart TD
 
-chiptumor/chipbot           --> |Strip to template| chipfucker/marlie
-chipfucker/marlie           --> |Booru commands   | chipfucker/booru-abuse
-chipfucker/chip63           --> |API access       | chipfucker/booru-abuse
-chipfucker/booru-abuse      --> |Wiki theme       | chiptumor/jekyll-theme-github-wiki
-chiptumor/jekyll-gfm-alerts --> |Main theme       | chiptumor/jekyll-theme-github-wiki
+chiptumor/jekyll-theme-github-wiki --> |Wiki theme| chipfucker/booru-abuse
+chiptumor/jekyll-gfm-alerts --> |Alerts plugin| --> chiptumor/jekyll-theme-github-wiki
+chipfucker/booru-abuse --> |Booru API| chipfucker/chip63
+chipfucker/booru-abuse --> |Booru API| chipfucker/marlie
+chipfucker/marlie --> |Templated| chiptumor/chipbot
 ```
