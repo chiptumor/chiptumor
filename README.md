@@ -16,7 +16,7 @@ Each project depends on the project its arrow points to.
 flowchart TD
 
 chiptumor/jekyll-theme-github-wiki --> |Wiki theme| chipfucker/booru-abuse
-chiptumor/jekyll-gfm-alerts --> |Alerts plugin| --> chiptumor/jekyll-theme-github-wiki
+chiptumor/jekyll-gfm-alerts --> |Alerts plugin| chiptumor/jekyll-theme-github-wiki
 chipfucker/booru-abuse --> |Booru API| chipfucker/chip63
 chipfucker/booru-abuse --> |Booru API| chipfucker/marlie
 chipfucker/marlie --> |Templated| chiptumor/chipbot
