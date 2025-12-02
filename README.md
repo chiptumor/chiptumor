@@ -10,7 +10,7 @@ I have a whole website about me at [chiptumor.github.io](https://chiptumor.githu
 
 I'm constantly working on several projects at a time&mdash;that is, _one_ project at a time, but with another in mind.
  
-Each project's dependencies are identified by an arrow pointing to it.
+Each project points to what depends on it.
 
 ```mermaid
 flowchart TD
