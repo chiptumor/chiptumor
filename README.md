@@ -2,4 +2,4 @@
 
 Call me Chip or Hazel.
 
-I use Github for various projects, but I'm still getting the hang of things.
+I'm still getting the hang of GitHub, so I oughta mess up here and there. I appreciate any and all patience.
